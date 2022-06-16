@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>E7B26265-EFEA-4FE0-948B-4C23AF38EFE4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>E7B26265-EFEA-4FE0-948B-4C23AF38EFE4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>ChatRoule_App-dzftrmtssgdqudhklfivnzmernze</string>
+			<key>timeStartedRecording</key>
+			<real>677090646.20473897</real>
+			<key>timeStoppedRecording</key>
+			<real>677090648.87316799</real>
+			<key>title</key>
+			<string>Build target ChatRoule_App</string>
+			<key>uniqueIdentifier</key>
+			<string>E7B26265-EFEA-4FE0-948B-4C23AF38EFE4</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

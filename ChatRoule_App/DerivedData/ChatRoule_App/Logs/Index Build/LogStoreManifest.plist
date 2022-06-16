@@ -1,0 +1,4805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>03E2851C-4BAC-4BCF-A02A-3EA10E043BF9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>03E2851C-4BAC-4BCF-A02A-3EA10E043BF9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086526.85033</real>
+			<key>timeStoppedRecording</key>
+			<real>677086526.90754199</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>03E2851C-4BAC-4BCF-A02A-3EA10E043BF9</string>
+		</dict>
+		<key>07B6623E-B675-4955-A914-2475DBBDAA33</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>07B6623E-B675-4955-A914-2475DBBDAA33.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086478.17279196</real>
+			<key>timeStoppedRecording</key>
+			<real>677086478.244941</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>07B6623E-B675-4955-A914-2475DBBDAA33</string>
+		</dict>
+		<key>0BE637DA-DE5C-4A7A-9D08-05B55D23ADF0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0BE637DA-DE5C-4A7A-9D08-05B55D23ADF0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086494.48803902</real>
+			<key>timeStoppedRecording</key>
+			<real>677086494.53434098</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>0BE637DA-DE5C-4A7A-9D08-05B55D23ADF0</string>
+		</dict>
+		<key>0D3E7228-8EDD-48C6-9EF0-E36E3D386256</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0D3E7228-8EDD-48C6-9EF0-E36E3D386256.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677087090.61876404</real>
+			<key>timeStoppedRecording</key>
+			<real>677087096.48413396</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>0D3E7228-8EDD-48C6-9EF0-E36E3D386256</string>
+		</dict>
+		<key>11AF8559-214E-4458-BD08-A8E97EF7C747</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>11AF8559-214E-4458-BD08-A8E97EF7C747.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085589.82560301</real>
+			<key>timeStoppedRecording</key>
+			<real>677085590.28320098</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>11AF8559-214E-4458-BD08-A8E97EF7C747</string>
+		</dict>
+		<key>136D6BED-3565-478E-972B-A577D441679F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>136D6BED-3565-478E-972B-A577D441679F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089999.15758705</real>
+			<key>timeStoppedRecording</key>
+			<real>677089999.466416</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>136D6BED-3565-478E-972B-A577D441679F</string>
+		</dict>
+		<key>13B67D9D-2D63-47EE-B7BF-31CC77DAED09</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>13B67D9D-2D63-47EE-B7BF-31CC77DAED09.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087267.472808</real>
+			<key>timeStoppedRecording</key>
+			<real>677087267.74744403</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>13B67D9D-2D63-47EE-B7BF-31CC77DAED09</string>
+		</dict>
+		<key>14221B79-D09E-443D-9D0C-CF943836AAC4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>14221B79-D09E-443D-9D0C-CF943836AAC4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089706.59705102</real>
+			<key>timeStoppedRecording</key>
+			<real>677089706.65918696</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>14221B79-D09E-443D-9D0C-CF943836AAC4</string>
+		</dict>
+		<key>14A20D79-C691-43B0-8AC7-0B69F939103F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>14A20D79-C691-43B0-8AC7-0B69F939103F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089440.63343406</real>
+			<key>timeStoppedRecording</key>
+			<real>677089440.77000499</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>14A20D79-C691-43B0-8AC7-0B69F939103F</string>
+		</dict>
+		<key>152D2F36-EEA6-4A3D-BB2D-2EFD7FEA0211</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>152D2F36-EEA6-4A3D-BB2D-2EFD7FEA0211.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089666.24826705</real>
+			<key>timeStoppedRecording</key>
+			<real>677089666.398283</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>152D2F36-EEA6-4A3D-BB2D-2EFD7FEA0211</string>
+		</dict>
+		<key>15E66508-ACB3-4306-B136-B80521482343</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>15E66508-ACB3-4306-B136-B80521482343.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089095.84072697</real>
+			<key>timeStoppedRecording</key>
+			<real>677089096.01391304</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>15E66508-ACB3-4306-B136-B80521482343</string>
+		</dict>
+		<key>179D72BB-E0E4-4887-BDB0-64104CE34D36</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>179D72BB-E0E4-4887-BDB0-64104CE34D36.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085406.66656303</real>
+			<key>timeStoppedRecording</key>
+			<real>677085408.344118</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>179D72BB-E0E4-4887-BDB0-64104CE34D36</string>
+		</dict>
+		<key>18A72C86-BD47-482D-A240-5D940F6F2C69</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>18A72C86-BD47-482D-A240-5D940F6F2C69.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085536.60599899</real>
+			<key>timeStoppedRecording</key>
+			<real>677085536.67078698</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>18A72C86-BD47-482D-A240-5D940F6F2C69</string>
+		</dict>
+		<key>19604BF3-0048-4CDE-98AC-1D7E68F17041</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>19604BF3-0048-4CDE-98AC-1D7E68F17041.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085200.53772902</real>
+			<key>timeStoppedRecording</key>
+			<real>677085201.21530795</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>19604BF3-0048-4CDE-98AC-1D7E68F17041</string>
+		</dict>
+		<key>1B29ACF9-6CF0-4D21-B914-62DA5B35618A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1B29ACF9-6CF0-4D21-B914-62DA5B35618A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085785.33259702</real>
+			<key>timeStoppedRecording</key>
+			<real>677085785.634956</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1B29ACF9-6CF0-4D21-B914-62DA5B35618A</string>
+		</dict>
+		<key>1C8263BE-E649-4F97-9577-3A082D4D7ADF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1C8263BE-E649-4F97-9577-3A082D4D7ADF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087546.50463402</real>
+			<key>timeStoppedRecording</key>
+			<real>677087546.77640104</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1C8263BE-E649-4F97-9577-3A082D4D7ADF</string>
+		</dict>
+		<key>1F8A6F5D-E8BA-4DCB-9EBF-5FF4BB605DB9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1F8A6F5D-E8BA-4DCB-9EBF-5FF4BB605DB9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677087285.71159196</real>
+			<key>timeStoppedRecording</key>
+			<real>677087290.330037</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>1F8A6F5D-E8BA-4DCB-9EBF-5FF4BB605DB9</string>
+		</dict>
+		<key>204C3B99-BCF7-4C40-97BA-3BC92448D6AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>204C3B99-BCF7-4C40-97BA-3BC92448D6AE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084855.82950997</real>
+			<key>timeStoppedRecording</key>
+			<real>677084856.20705497</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>204C3B99-BCF7-4C40-97BA-3BC92448D6AE</string>
+		</dict>
+		<key>2099ADC4-1195-4963-A60A-FFD8930AABD2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2099ADC4-1195-4963-A60A-FFD8930AABD2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089648.31264901</real>
+			<key>timeStoppedRecording</key>
+			<real>677089648.46942794</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2099ADC4-1195-4963-A60A-FFD8930AABD2</string>
+		</dict>
+		<key>20F7B3C0-C318-44EE-8DCB-FC6574D5B947</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>20F7B3C0-C318-44EE-8DCB-FC6574D5B947.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677089435.91450596</real>
+			<key>timeStoppedRecording</key>
+			<real>677089440.69849896</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>20F7B3C0-C318-44EE-8DCB-FC6574D5B947</string>
+		</dict>
+		<key>2215CEF1-6A8C-440B-A097-5BB2FE8D45D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2215CEF1-6A8C-440B-A097-5BB2FE8D45D9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087418.77266896</real>
+			<key>timeStoppedRecording</key>
+			<real>677087418.84267998</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2215CEF1-6A8C-440B-A097-5BB2FE8D45D9</string>
+		</dict>
+		<key>2852F5A5-B425-458D-883B-BE3430E24D20</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2852F5A5-B425-458D-883B-BE3430E24D20.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084544.883865</real>
+			<key>timeStoppedRecording</key>
+			<real>677084544.99978495</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2852F5A5-B425-458D-883B-BE3430E24D20</string>
+		</dict>
+		<key>28EFA9D0-6AFC-47A9-A1C0-208276D65AA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>28EFA9D0-6AFC-47A9-A1C0-208276D65AA0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677090598.65165305</real>
+			<key>timeStoppedRecording</key>
+			<real>677090599.01331794</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>28EFA9D0-6AFC-47A9-A1C0-208276D65AA0</string>
+		</dict>
+		<key>2958D890-7642-4BBA-ABA4-7090E551625B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2958D890-7642-4BBA-ABA4-7090E551625B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084857.29468298</real>
+			<key>timeStoppedRecording</key>
+			<real>677084857.45733202</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2958D890-7642-4BBA-ABA4-7090E551625B</string>
+		</dict>
+		<key>2A98F7C9-6772-408D-89B8-579E82DD4FA1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2A98F7C9-6772-408D-89B8-579E82DD4FA1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677090220.752092</real>
+			<key>timeStoppedRecording</key>
+			<real>677090221.17324603</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2A98F7C9-6772-408D-89B8-579E82DD4FA1</string>
+		</dict>
+		<key>2BDB1BAC-6D27-49D6-BDFE-64468504FDFD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2BDB1BAC-6D27-49D6-BDFE-64468504FDFD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087220.32194304</real>
+			<key>timeStoppedRecording</key>
+			<real>677087220.45895302</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2BDB1BAC-6D27-49D6-BDFE-64468504FDFD</string>
+		</dict>
+		<key>2DF72047-BB57-4E24-B177-745AC041B1DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2DF72047-BB57-4E24-B177-745AC041B1DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677090089.22960901</real>
+			<key>timeStoppedRecording</key>
+			<real>677090089.32357299</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2DF72047-BB57-4E24-B177-745AC041B1DF</string>
+		</dict>
+		<key>3416E938-D1E6-4BAE-825D-F096FCBDB528</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3416E938-D1E6-4BAE-825D-F096FCBDB528.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677083924.81747305</real>
+			<key>timeStoppedRecording</key>
+			<real>677083925.06712198</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3416E938-D1E6-4BAE-825D-F096FCBDB528</string>
+		</dict>
+		<key>35C76771-FF49-4D44-8AF6-D1ABA7D13655</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>35C76771-FF49-4D44-8AF6-D1ABA7D13655.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085915.45486498</real>
+			<key>timeStoppedRecording</key>
+			<real>677085916.20753706</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>35C76771-FF49-4D44-8AF6-D1ABA7D13655</string>
+		</dict>
+		<key>35D2C094-1F47-4FE0-B6FF-EE1FD4D5B9E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>35D2C094-1F47-4FE0-B6FF-EE1FD4D5B9E6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677086181.41364396</real>
+			<key>timeStoppedRecording</key>
+			<real>677086187.25866604</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>35D2C094-1F47-4FE0-B6FF-EE1FD4D5B9E6</string>
+		</dict>
+		<key>365DA4AD-A12B-4E18-B7D9-B42E38040CEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>365DA4AD-A12B-4E18-B7D9-B42E38040CEC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677086181.40728903</real>
+			<key>timeStoppedRecording</key>
+			<real>677086187.25705099</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>365DA4AD-A12B-4E18-B7D9-B42E38040CEC</string>
+		</dict>
+		<key>38C7F6ED-A957-4DAE-A85C-86F358E4B50B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>38C7F6ED-A957-4DAE-A85C-86F358E4B50B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087350.66543496</real>
+			<key>timeStoppedRecording</key>
+			<real>677087350.72231901</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>38C7F6ED-A957-4DAE-A85C-86F358E4B50B</string>
+		</dict>
+		<key>3C36C00E-A729-42E2-961D-1C360BBAACFC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3C36C00E-A729-42E2-961D-1C360BBAACFC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086012.37831402</real>
+			<key>timeStoppedRecording</key>
+			<real>677086012.43850696</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3C36C00E-A729-42E2-961D-1C360BBAACFC</string>
+		</dict>
+		<key>3EB05277-DCF0-437C-8C5E-8C8760F500D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3EB05277-DCF0-437C-8C5E-8C8760F500D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089621.11898601</real>
+			<key>timeStoppedRecording</key>
+			<real>677089621.40314996</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3EB05277-DCF0-437C-8C5E-8C8760F500D1</string>
+		</dict>
+		<key>3F9376E8-DDA3-49DF-92E2-1E9E3D4868E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3F9376E8-DDA3-49DF-92E2-1E9E3D4868E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677088496.78622794</real>
+			<key>timeStoppedRecording</key>
+			<real>677088496.94491398</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3F9376E8-DDA3-49DF-92E2-1E9E3D4868E3</string>
+		</dict>
+		<key>401436A6-6126-4E70-B307-21A05F5F14E8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>401436A6-6126-4E70-B307-21A05F5F14E8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677090470.59941697</real>
+			<key>timeStoppedRecording</key>
+			<real>677090470.802387</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>401436A6-6126-4E70-B307-21A05F5F14E8</string>
+		</dict>
+		<key>4044EC1C-F583-45FD-A623-B912610001B4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4044EC1C-F583-45FD-A623-B912610001B4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677084858.53264594</real>
+			<key>timeStoppedRecording</key>
+			<real>677084862.82257199</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>4044EC1C-F583-45FD-A623-B912610001B4</string>
+		</dict>
+		<key>411F0EF2-8874-47BA-9E62-26DB20448BAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>411F0EF2-8874-47BA-9E62-26DB20448BAC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087440.830356</real>
+			<key>timeStoppedRecording</key>
+			<real>677087440.93711805</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>411F0EF2-8874-47BA-9E62-26DB20448BAC</string>
+		</dict>
+		<key>437A7CD8-35C7-41C2-8947-25106F26879D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>437A7CD8-35C7-41C2-8947-25106F26879D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087537.94865501</real>
+			<key>timeStoppedRecording</key>
+			<real>677087537.989362</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>437A7CD8-35C7-41C2-8947-25106F26879D</string>
+		</dict>
+		<key>43939607-CF94-4215-897B-CD4B91247418</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>43939607-CF94-4215-897B-CD4B91247418.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089586.21995497</real>
+			<key>timeStoppedRecording</key>
+			<real>677089586.440871</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>43939607-CF94-4215-897B-CD4B91247418</string>
+		</dict>
+		<key>48C39529-5798-4FBD-8601-90C20E8CCFE3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>48C39529-5798-4FBD-8601-90C20E8CCFE3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085657.613078</real>
+			<key>timeStoppedRecording</key>
+			<real>677085657.68436098</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>48C39529-5798-4FBD-8601-90C20E8CCFE3</string>
+		</dict>
+		<key>48DDC5BE-9E85-4EB7-B424-B39D5D7FFFC9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>48DDC5BE-9E85-4EB7-B424-B39D5D7FFFC9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086707.63600695</real>
+			<key>timeStoppedRecording</key>
+			<real>677086707.75561094</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>48DDC5BE-9E85-4EB7-B424-B39D5D7FFFC9</string>
+		</dict>
+		<key>4982D615-F3D9-4127-84C4-E1DDAEAB190B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4982D615-F3D9-4127-84C4-E1DDAEAB190B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084332.33938599</real>
+			<key>timeStoppedRecording</key>
+			<real>677084332.47343099</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4982D615-F3D9-4127-84C4-E1DDAEAB190B</string>
+		</dict>
+		<key>49F011B1-FB0E-4178-A584-87DAFC4FA59B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>49F011B1-FB0E-4178-A584-87DAFC4FA59B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089575.64690399</real>
+			<key>timeStoppedRecording</key>
+			<real>677089575.74096894</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>49F011B1-FB0E-4178-A584-87DAFC4FA59B</string>
+		</dict>
+		<key>4A692603-4CCC-4BDB-9C8F-3D6256C9F6FC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4A692603-4CCC-4BDB-9C8F-3D6256C9F6FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677084542.02502596</real>
+			<key>timeStoppedRecording</key>
+			<real>677084544.87871897</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>4A692603-4CCC-4BDB-9C8F-3D6256C9F6FC</string>
+		</dict>
+		<key>4F4F850A-124D-45E2-881D-43D41AF3B447</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4F4F850A-124D-45E2-881D-43D41AF3B447.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087114.97810996</real>
+			<key>timeStoppedRecording</key>
+			<real>677087115.04843295</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4F4F850A-124D-45E2-881D-43D41AF3B447</string>
+		</dict>
+		<key>50521D33-684D-4FB0-B9D9-A0C0299DE6CC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>50521D33-684D-4FB0-B9D9-A0C0299DE6CC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677086703.45517194</real>
+			<key>timeStoppedRecording</key>
+			<real>677086707.69207096</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>50521D33-684D-4FB0-B9D9-A0C0299DE6CC</string>
+		</dict>
+		<key>5144B9FC-15E3-44E4-B15C-D4BC82FAA241</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5144B9FC-15E3-44E4-B15C-D4BC82FAA241.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086696.207183</real>
+			<key>timeStoppedRecording</key>
+			<real>677086696.37710905</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5144B9FC-15E3-44E4-B15C-D4BC82FAA241</string>
+		</dict>
+		<key>53735A18-DC08-410E-B39A-3003D8DB6B34</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>53735A18-DC08-410E-B39A-3003D8DB6B34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677087090.61835802</real>
+			<key>timeStoppedRecording</key>
+			<real>677087096.50064194</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>53735A18-DC08-410E-B39A-3003D8DB6B34</string>
+		</dict>
+		<key>59B4E55E-CD58-4DFE-B8CC-13741BAB1DB1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>59B4E55E-CD58-4DFE-B8CC-13741BAB1DB1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089820.62011397</real>
+			<key>timeStoppedRecording</key>
+			<real>677089820.73619604</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>59B4E55E-CD58-4DFE-B8CC-13741BAB1DB1</string>
+		</dict>
+		<key>5B56EE80-B15A-4BA8-99C5-2F7D9E2E1165</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5B56EE80-B15A-4BA8-99C5-2F7D9E2E1165.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086569.38370597</real>
+			<key>timeStoppedRecording</key>
+			<real>677086569.43781495</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5B56EE80-B15A-4BA8-99C5-2F7D9E2E1165</string>
+		</dict>
+		<key>5BF0582E-9FF7-4F13-B26B-0691D0EFECE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5BF0582E-9FF7-4F13-B26B-0691D0EFECE5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087534.30079305</real>
+			<key>timeStoppedRecording</key>
+			<real>677087534.35652399</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5BF0582E-9FF7-4F13-B26B-0691D0EFECE5</string>
+		</dict>
+		<key>5D5669F9-9DF4-410B-86CF-A0B3092294CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5D5669F9-9DF4-410B-86CF-A0B3092294CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084862.81715095</real>
+			<key>timeStoppedRecording</key>
+			<real>677084863.95461905</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5D5669F9-9DF4-410B-86CF-A0B3092294CE</string>
+		</dict>
+		<key>5F1C6498-749D-47BF-A4CE-4957B7FB1246</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5F1C6498-749D-47BF-A4CE-4957B7FB1246.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086391.89143002</real>
+			<key>timeStoppedRecording</key>
+			<real>677086392.86777496</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5F1C6498-749D-47BF-A4CE-4957B7FB1246</string>
+		</dict>
+		<key>615F9DE9-26CF-4989-A5FC-AEAA1874A693</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>615F9DE9-26CF-4989-A5FC-AEAA1874A693.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087469.47387004</real>
+			<key>timeStoppedRecording</key>
+			<real>677087470.92927206</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>615F9DE9-26CF-4989-A5FC-AEAA1874A693</string>
+		</dict>
+		<key>66B4DA31-9A93-444E-828E-9B1B22B9B6EC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>66B4DA31-9A93-444E-828E-9B1B22B9B6EC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087521.21880198</real>
+			<key>timeStoppedRecording</key>
+			<real>677087521.29311001</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>66B4DA31-9A93-444E-828E-9B1B22B9B6EC</string>
+		</dict>
+		<key>69A15084-6E72-42B5-A6EB-079ED91990FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>69A15084-6E72-42B5-A6EB-079ED91990FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677090646.039325</real>
+			<key>timeStoppedRecording</key>
+			<real>677090646.50550199</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>69A15084-6E72-42B5-A6EB-079ED91990FB</string>
+		</dict>
+		<key>6A489E7F-FDD1-46F0-A07F-228B3D5345A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6A489E7F-FDD1-46F0-A07F-228B3D5345A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677090021.11567998</real>
+			<key>timeStoppedRecording</key>
+			<real>677090021.92272604</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6A489E7F-FDD1-46F0-A07F-228B3D5345A9</string>
+		</dict>
+		<key>6B5334EA-4C6C-48C3-87E6-29482DCD665E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6B5334EA-4C6C-48C3-87E6-29482DCD665E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087290.33563602</real>
+			<key>timeStoppedRecording</key>
+			<real>677087290.452829</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6B5334EA-4C6C-48C3-87E6-29482DCD665E</string>
+		</dict>
+		<key>6FF72157-76EE-4056-A760-2794DD30AE26</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6FF72157-76EE-4056-A760-2794DD30AE26.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Build Folder</string>
+			<key>timeStartedRecording</key>
+			<real>677084973.77941704</real>
+			<key>timeStoppedRecording</key>
+			<real>677084973.82734704</real>
+			<key>title</key>
+			<string>Clean Build Folder</string>
+			<key>uniqueIdentifier</key>
+			<string>6FF72157-76EE-4056-A760-2794DD30AE26</string>
+		</dict>
+		<key>70496598-601B-45E6-A0CF-018450A461B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>70496598-601B-45E6-A0CF-018450A461B5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089056.71405101</real>
+			<key>timeStoppedRecording</key>
+			<real>677089056.90845597</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>70496598-601B-45E6-A0CF-018450A461B5</string>
+		</dict>
+		<key>71C01135-3F02-4280-AB97-EAA8A2534D33</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>71C01135-3F02-4280-AB97-EAA8A2534D33.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084691.63499296</real>
+			<key>timeStoppedRecording</key>
+			<real>677084691.69953299</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>71C01135-3F02-4280-AB97-EAA8A2534D33</string>
+		</dict>
+		<key>7668F755-9CF9-45EB-8CE1-A18515AB38D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7668F755-9CF9-45EB-8CE1-A18515AB38D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087196.83061099</real>
+			<key>timeStoppedRecording</key>
+			<real>677087196.83614504</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7668F755-9CF9-45EB-8CE1-A18515AB38D2</string>
+		</dict>
+		<key>79150555-E79E-46D7-94F1-3E290FFCA03B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>79150555-E79E-46D7-94F1-3E290FFCA03B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086549.91671896</real>
+			<key>timeStoppedRecording</key>
+			<real>677086549.99107802</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>79150555-E79E-46D7-94F1-3E290FFCA03B</string>
+		</dict>
+		<key>818F856C-9BFA-4C66-96F5-749851AC05DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>818F856C-9BFA-4C66-96F5-749851AC05DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677088390.62008905</real>
+			<key>timeStoppedRecording</key>
+			<real>677088390.75750804</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>818F856C-9BFA-4C66-96F5-749851AC05DB</string>
+		</dict>
+		<key>83F31BC8-4191-4713-ACEE-4B00D21B71B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>83F31BC8-4191-4713-ACEE-4B00D21B71B6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089189.24520802</real>
+			<key>timeStoppedRecording</key>
+			<real>677089189.30429804</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>83F31BC8-4191-4713-ACEE-4B00D21B71B6</string>
+		</dict>
+		<key>8573FCBC-65F4-460C-8FB3-DF68A427CD5F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8573FCBC-65F4-460C-8FB3-DF68A427CD5F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677090443.56764305</real>
+			<key>timeStoppedRecording</key>
+			<real>677090443.66654599</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8573FCBC-65F4-460C-8FB3-DF68A427CD5F</string>
+		</dict>
+		<key>8673B3EC-FB09-4BBD-A66D-6506EF4D2812</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8673B3EC-FB09-4BBD-A66D-6506EF4D2812.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085333.27850902</real>
+			<key>timeStoppedRecording</key>
+			<real>677085333.824458</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8673B3EC-FB09-4BBD-A66D-6506EF4D2812</string>
+		</dict>
+		<key>880105DA-7949-49F1-951A-08561822C86D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>880105DA-7949-49F1-951A-08561822C86D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087214.75500202</real>
+			<key>timeStoppedRecording</key>
+			<real>677087214.87158895</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>880105DA-7949-49F1-951A-08561822C86D</string>
+		</dict>
+		<key>892A955E-3FC6-45EC-A5A0-FD15AC899985</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>892A955E-3FC6-45EC-A5A0-FD15AC899985.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084575.86350095</real>
+			<key>timeStoppedRecording</key>
+			<real>677084575.93267095</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>892A955E-3FC6-45EC-A5A0-FD15AC899985</string>
+		</dict>
+		<key>8ACD54C4-8494-4D51-B4B3-AC957C54585C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8ACD54C4-8494-4D51-B4B3-AC957C54585C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677088339.11187196</real>
+			<key>timeStoppedRecording</key>
+			<real>677088339.18141603</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8ACD54C4-8494-4D51-B4B3-AC957C54585C</string>
+		</dict>
+		<key>8D2C28F9-C51C-4CF6-A10C-C2557EE37F35</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8D2C28F9-C51C-4CF6-A10C-C2557EE37F35.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677084542.019961</real>
+			<key>timeStoppedRecording</key>
+			<real>677084544.93960094</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>8D2C28F9-C51C-4CF6-A10C-C2557EE37F35</string>
+		</dict>
+		<key>8F01D8F0-E8A7-4326-BE31-307E4330BFFC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8F01D8F0-E8A7-4326-BE31-307E4330BFFC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086521.52926695</real>
+			<key>timeStoppedRecording</key>
+			<real>677086521.68560004</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8F01D8F0-E8A7-4326-BE31-307E4330BFFC</string>
+		</dict>
+		<key>901DAE5E-25B7-467B-AD97-3F3BBC990ED0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>901DAE5E-25B7-467B-AD97-3F3BBC990ED0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084974.95877302</real>
+			<key>timeStoppedRecording</key>
+			<real>677084975.06390095</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>901DAE5E-25B7-467B-AD97-3F3BBC990ED0</string>
+		</dict>
+		<key>9217AC35-7424-47A8-8849-2658B881D3AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9217AC35-7424-47A8-8849-2658B881D3AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Build Folder</string>
+			<key>timeStartedRecording</key>
+			<real>677086702.35400295</real>
+			<key>timeStoppedRecording</key>
+			<real>677086702.43575704</real>
+			<key>title</key>
+			<string>Clean Build Folder</string>
+			<key>uniqueIdentifier</key>
+			<string>9217AC35-7424-47A8-8849-2658B881D3AC</string>
+		</dict>
+		<key>92895907-509E-4C1F-94D1-81C6870A317A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>92895907-509E-4C1F-94D1-81C6870A317A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677088463.082178</real>
+			<key>timeStoppedRecording</key>
+			<real>677088463.23894298</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>92895907-509E-4C1F-94D1-81C6870A317A</string>
+		</dict>
+		<key>942670E3-2D1D-4BAA-91A9-7C087633937C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>942670E3-2D1D-4BAA-91A9-7C087633937C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087541.78105295</real>
+			<key>timeStoppedRecording</key>
+			<real>677087541.86664903</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>942670E3-2D1D-4BAA-91A9-7C087633937C</string>
+		</dict>
+		<key>962E7701-FB2D-4175-8850-221033A92E2B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>962E7701-FB2D-4175-8850-221033A92E2B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089606.46869695</real>
+			<key>timeStoppedRecording</key>
+			<real>677089607.03740394</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>962E7701-FB2D-4175-8850-221033A92E2B</string>
+		</dict>
+		<key>964D0529-9EC3-45ED-AFD2-69F59E44A2B0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>964D0529-9EC3-45ED-AFD2-69F59E44A2B0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089159.71070802</real>
+			<key>timeStoppedRecording</key>
+			<real>677089159.93649697</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>964D0529-9EC3-45ED-AFD2-69F59E44A2B0</string>
+		</dict>
+		<key>96A3F01C-422C-46CC-85EA-C34D67239F52</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>96A3F01C-422C-46CC-85EA-C34D67239F52.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677088834.31169605</real>
+			<key>timeStoppedRecording</key>
+			<real>677088835.01620102</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>96A3F01C-422C-46CC-85EA-C34D67239F52</string>
+		</dict>
+		<key>96C9C209-A212-4BE7-8EB9-E2B947FA40A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>96C9C209-A212-4BE7-8EB9-E2B947FA40A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086591.94175196</real>
+			<key>timeStoppedRecording</key>
+			<real>677086592.02258205</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>96C9C209-A212-4BE7-8EB9-E2B947FA40A9</string>
+		</dict>
+		<key>9A28DFA7-7392-4C62-B11F-209C96F4BBFC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9A28DFA7-7392-4C62-B11F-209C96F4BBFC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086545.78812599</real>
+			<key>timeStoppedRecording</key>
+			<real>677086546.01042104</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9A28DFA7-7392-4C62-B11F-209C96F4BBFC</string>
+		</dict>
+		<key>9BE6BE93-30DD-4F07-82E3-3E1CCE6CD9C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9BE6BE93-30DD-4F07-82E3-3E1CCE6CD9C5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087257.08926594</real>
+			<key>timeStoppedRecording</key>
+			<real>677087257.23656201</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9BE6BE93-30DD-4F07-82E3-3E1CCE6CD9C5</string>
+		</dict>
+		<key>9DD7ACE7-CEF1-4D78-8692-DFDDCBB0044C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9DD7ACE7-CEF1-4D78-8692-DFDDCBB0044C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Build Folder</string>
+			<key>timeStartedRecording</key>
+			<real>677087284.66587198</real>
+			<key>timeStoppedRecording</key>
+			<real>677087284.77460694</real>
+			<key>title</key>
+			<string>Clean Build Folder</string>
+			<key>uniqueIdentifier</key>
+			<string>9DD7ACE7-CEF1-4D78-8692-DFDDCBB0044C</string>
+		</dict>
+		<key>9EBB5CE7-BD12-4DB2-980C-0D0DB10D4271</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9EBB5CE7-BD12-4DB2-980C-0D0DB10D4271.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086187.27332497</real>
+			<key>timeStoppedRecording</key>
+			<real>677086187.72174597</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9EBB5CE7-BD12-4DB2-980C-0D0DB10D4271</string>
+		</dict>
+		<key>A3138974-C8E9-4961-9217-9E41A4DF19A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A3138974-C8E9-4961-9217-9E41A4DF19A7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084188.47844195</real>
+			<key>timeStoppedRecording</key>
+			<real>677084188.52762902</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A3138974-C8E9-4961-9217-9E41A4DF19A7</string>
+		</dict>
+		<key>A3ACD7D8-FBC0-44A0-8F45-1DFD47E2B01D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A3ACD7D8-FBC0-44A0-8F45-1DFD47E2B01D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084022.21460998</real>
+			<key>timeStoppedRecording</key>
+			<real>677084022.39418101</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A3ACD7D8-FBC0-44A0-8F45-1DFD47E2B01D</string>
+		</dict>
+		<key>A92F867E-AEC9-4343-BAF9-DCA1283DF3C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A92F867E-AEC9-4343-BAF9-DCA1283DF3C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Build Folder</string>
+			<key>timeStartedRecording</key>
+			<real>677089434.91263402</real>
+			<key>timeStoppedRecording</key>
+			<real>677089435.02816296</real>
+			<key>title</key>
+			<string>Clean Build Folder</string>
+			<key>uniqueIdentifier</key>
+			<string>A92F867E-AEC9-4343-BAF9-DCA1283DF3C2</string>
+		</dict>
+		<key>A9773422-807B-483D-A798-19579F2155B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A9773422-807B-483D-A798-19579F2155B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677087285.71100605</real>
+			<key>timeStoppedRecording</key>
+			<real>677087290.36821795</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>A9773422-807B-483D-A798-19579F2155B8</string>
+		</dict>
+		<key>AC1B8198-DC95-4948-99C5-CBBC14CB4727</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>AC1B8198-DC95-4948-99C5-CBBC14CB4727.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084175.95515299</real>
+			<key>timeStoppedRecording</key>
+			<real>677084176.02234399</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>AC1B8198-DC95-4948-99C5-CBBC14CB4727</string>
+		</dict>
+		<key>AD55BECF-F8B4-41ED-A4E8-E9A8DCAB58E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>AD55BECF-F8B4-41ED-A4E8-E9A8DCAB58E2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677090378.87285304</real>
+			<key>timeStoppedRecording</key>
+			<real>677090379.24870896</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>AD55BECF-F8B4-41ED-A4E8-E9A8DCAB58E2</string>
+		</dict>
+		<key>AF303437-959E-4F43-94E9-CC34C3BD621A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>AF303437-959E-4F43-94E9-CC34C3BD621A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Build Folder</string>
+			<key>timeStartedRecording</key>
+			<real>677083898.15154898</real>
+			<key>timeStoppedRecording</key>
+			<real>677083898.26033998</real>
+			<key>title</key>
+			<string>Clean Build Folder</string>
+			<key>uniqueIdentifier</key>
+			<string>AF303437-959E-4F43-94E9-CC34C3BD621A</string>
+		</dict>
+		<key>B042FD93-0A85-4239-AC45-47D18222B26A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B042FD93-0A85-4239-AC45-47D18222B26A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084402.07986104</real>
+			<key>timeStoppedRecording</key>
+			<real>677084402.17805505</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B042FD93-0A85-4239-AC45-47D18222B26A</string>
+		</dict>
+		<key>B04A6B91-7047-4A58-9BB8-FCBCD7B98B06</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B04A6B91-7047-4A58-9BB8-FCBCD7B98B06.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677088304.79631102</real>
+			<key>timeStoppedRecording</key>
+			<real>677088305.09696996</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B04A6B91-7047-4A58-9BB8-FCBCD7B98B06</string>
+		</dict>
+		<key>B135C5DF-92D8-4322-B18A-6CC56C1BBFFB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B135C5DF-92D8-4322-B18A-6CC56C1BBFFB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085037.26271403</real>
+			<key>timeStoppedRecording</key>
+			<real>677085037.31238198</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B135C5DF-92D8-4322-B18A-6CC56C1BBFFB</string>
+		</dict>
+		<key>B1B1A70B-5F2F-49E7-905F-8FDFF18BCAEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B1B1A70B-5F2F-49E7-905F-8FDFF18BCAEC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086365.21150303</real>
+			<key>timeStoppedRecording</key>
+			<real>677086365.63729596</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B1B1A70B-5F2F-49E7-905F-8FDFF18BCAEC</string>
+		</dict>
+		<key>B3D0C525-557C-4745-BFA3-CBF2C0E88AF6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B3D0C525-557C-4745-BFA3-CBF2C0E88AF6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084615.54032803</real>
+			<key>timeStoppedRecording</key>
+			<real>677084615.63072503</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B3D0C525-557C-4745-BFA3-CBF2C0E88AF6</string>
+		</dict>
+		<key>B6E4F6AC-B068-4640-8B02-D85A7D9B7E5A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B6E4F6AC-B068-4640-8B02-D85A7D9B7E5A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086541.94909799</real>
+			<key>timeStoppedRecording</key>
+			<real>677086542.14990902</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B6E4F6AC-B068-4640-8B02-D85A7D9B7E5A</string>
+		</dict>
+		<key>BA432298-4DC0-499B-BC36-2CE19231C94C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BA432298-4DC0-499B-BC36-2CE19231C94C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085696.52265</real>
+			<key>timeStoppedRecording</key>
+			<real>677085696.57379103</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BA432298-4DC0-499B-BC36-2CE19231C94C</string>
+		</dict>
+		<key>BABE04C2-7185-4937-80C5-18AC9C9486F6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BABE04C2-7185-4937-80C5-18AC9C9486F6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677088554.27634299</real>
+			<key>timeStoppedRecording</key>
+			<real>677088554.43912899</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BABE04C2-7185-4937-80C5-18AC9C9486F6</string>
+		</dict>
+		<key>BAF9CE10-7A51-4793-8291-264D7B822974</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BAF9CE10-7A51-4793-8291-264D7B822974.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086350.52779305</real>
+			<key>timeStoppedRecording</key>
+			<real>677086350.59240305</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BAF9CE10-7A51-4793-8291-264D7B822974</string>
+		</dict>
+		<key>BE9FB4EB-380F-4028-A0A9-62EDD568DA95</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BE9FB4EB-380F-4028-A0A9-62EDD568DA95.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677088247.69485795</real>
+			<key>timeStoppedRecording</key>
+			<real>677088247.94991899</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BE9FB4EB-380F-4028-A0A9-62EDD568DA95</string>
+		</dict>
+		<key>BF0C22BE-C2FC-4CBF-8FFC-97B7DCE77417</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BF0C22BE-C2FC-4CBF-8FFC-97B7DCE77417.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086298.51032698</real>
+			<key>timeStoppedRecording</key>
+			<real>677086298.80384898</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BF0C22BE-C2FC-4CBF-8FFC-97B7DCE77417</string>
+		</dict>
+		<key>BF238F1B-B2DD-4AC0-A2B0-E1B418B66260</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BF238F1B-B2DD-4AC0-A2B0-E1B418B66260.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086074.22965503</real>
+			<key>timeStoppedRecording</key>
+			<real>677086074.39868498</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BF238F1B-B2DD-4AC0-A2B0-E1B418B66260</string>
+		</dict>
+		<key>C10A4EB4-DCA7-4808-BAA7-298FD17FBE1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C10A4EB4-DCA7-4808-BAA7-298FD17FBE1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Build Folder</string>
+			<key>timeStartedRecording</key>
+			<real>677084857.45740902</real>
+			<key>timeStoppedRecording</key>
+			<real>677084857.54917097</real>
+			<key>title</key>
+			<string>Clean Build Folder</string>
+			<key>uniqueIdentifier</key>
+			<string>C10A4EB4-DCA7-4808-BAA7-298FD17FBE1B</string>
+		</dict>
+		<key>C21F38B4-B8B2-42E2-B1DC-7D0268BD310F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C21F38B4-B8B2-42E2-B1DC-7D0268BD310F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086880.81241405</real>
+			<key>timeStoppedRecording</key>
+			<real>677086880.85947394</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C21F38B4-B8B2-42E2-B1DC-7D0268BD310F</string>
+		</dict>
+		<key>C2347044-2670-4730-AA9D-8DA14B565ABA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C2347044-2670-4730-AA9D-8DA14B565ABA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086050.98579001</real>
+			<key>timeStoppedRecording</key>
+			<real>677086051.03156805</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C2347044-2670-4730-AA9D-8DA14B565ABA</string>
+		</dict>
+		<key>C34C4BC8-E082-410B-91CC-62E3B65CCA12</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C34C4BC8-E082-410B-91CC-62E3B65CCA12.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086462.93234098</real>
+			<key>timeStoppedRecording</key>
+			<real>677086463.02007794</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C34C4BC8-E082-410B-91CC-62E3B65CCA12</string>
+		</dict>
+		<key>C439F62A-B6AD-49AA-9FA4-C65BEDB6A185</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C439F62A-B6AD-49AA-9FA4-C65BEDB6A185.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677089435.91780305</real>
+			<key>timeStoppedRecording</key>
+			<real>677089440.62549496</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>C439F62A-B6AD-49AA-9FA4-C65BEDB6A185</string>
+		</dict>
+		<key>C4D078BC-6099-47A1-8865-152FEDE2C085</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C4D078BC-6099-47A1-8865-152FEDE2C085.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084701.45513201</real>
+			<key>timeStoppedRecording</key>
+			<real>677084701.55824196</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C4D078BC-6099-47A1-8865-152FEDE2C085</string>
+		</dict>
+		<key>C50C86F0-4434-485B-8430-4A323D6CDA52</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C50C86F0-4434-485B-8430-4A323D6CDA52.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087197.06685698</real>
+			<key>timeStoppedRecording</key>
+			<real>677087197.53433204</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C50C86F0-4434-485B-8430-4A323D6CDA52</string>
+		</dict>
+		<key>C60BC993-D49F-42DD-BB50-4D44B135917B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C60BC993-D49F-42DD-BB50-4D44B135917B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089008.86770797</real>
+			<key>timeStoppedRecording</key>
+			<real>677089008.987234</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C60BC993-D49F-42DD-BB50-4D44B135917B</string>
+		</dict>
+		<key>C6EC6702-9808-4F96-83B0-D6E90DA525E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C6EC6702-9808-4F96-83B0-D6E90DA525E7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677084974.78102899</real>
+			<key>timeStoppedRecording</key>
+			<real>677084974.95377398</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>C6EC6702-9808-4F96-83B0-D6E90DA525E7</string>
+		</dict>
+		<key>C8ABFC33-F48E-4296-BA30-9B6F05AAF425</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C8ABFC33-F48E-4296-BA30-9B6F05AAF425.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085272.03322506</real>
+			<key>timeStoppedRecording</key>
+			<real>677085272.69686401</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C8ABFC33-F48E-4296-BA30-9B6F05AAF425</string>
+		</dict>
+		<key>C9ABD84B-F951-4149-B379-9C32B148651A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C9ABD84B-F951-4149-B379-9C32B148651A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084154.79089606</real>
+			<key>timeStoppedRecording</key>
+			<real>677084154.87349498</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C9ABD84B-F951-4149-B379-9C32B148651A</string>
+		</dict>
+		<key>CC482F23-3177-4C8E-A3A6-801B51FB5F37</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>CC482F23-3177-4C8E-A3A6-801B51FB5F37.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677084857.54936397</real>
+			<key>timeStoppedRecording</key>
+			<real>677084862.81262696</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>CC482F23-3177-4C8E-A3A6-801B51FB5F37</string>
+		</dict>
+		<key>D5214112-6AAF-4425-8E53-8F114029686B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D5214112-6AAF-4425-8E53-8F114029686B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087222.37041199</real>
+			<key>timeStoppedRecording</key>
+			<real>677087222.49908996</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D5214112-6AAF-4425-8E53-8F114029686B</string>
+		</dict>
+		<key>D5A214F8-7527-4373-B4FC-EA66DD54A1CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D5A214F8-7527-4373-B4FC-EA66DD54A1CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089507.06826603</real>
+			<key>timeStoppedRecording</key>
+			<real>677089508.64325702</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D5A214F8-7527-4373-B4FC-EA66DD54A1CA</string>
+		</dict>
+		<key>D661DFCB-AFA7-48A7-BBCF-CD45325BCFEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D661DFCB-AFA7-48A7-BBCF-CD45325BCFEA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677090410.42288899</real>
+			<key>timeStoppedRecording</key>
+			<real>677090411.53830194</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D661DFCB-AFA7-48A7-BBCF-CD45325BCFEA</string>
+		</dict>
+		<key>D8F280F5-AC45-4A1C-81FC-86A936912B0C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D8F280F5-AC45-4A1C-81FC-86A936912B0C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677088437.22249198</real>
+			<key>timeStoppedRecording</key>
+			<real>677088437.29784703</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D8F280F5-AC45-4A1C-81FC-86A936912B0C</string>
+		</dict>
+		<key>D969BF0C-3336-4181-BD98-B81B3BFAED8C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D969BF0C-3336-4181-BD98-B81B3BFAED8C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677083917.93106103</real>
+			<key>timeStoppedRecording</key>
+			<real>677083924.80753195</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>D969BF0C-3336-4181-BD98-B81B3BFAED8C</string>
+		</dict>
+		<key>DA52755F-90DA-45EE-B7CA-C2BA00156ECF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DA52755F-90DA-45EE-B7CA-C2BA00156ECF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084087.661291</real>
+			<key>timeStoppedRecording</key>
+			<real>677084087.73300397</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DA52755F-90DA-45EE-B7CA-C2BA00156ECF</string>
+		</dict>
+		<key>DAAE209A-97E1-4D3A-A323-794DC63B8D88</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DAAE209A-97E1-4D3A-A323-794DC63B8D88.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087592.17223895</real>
+			<key>timeStoppedRecording</key>
+			<real>677087592.27134299</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DAAE209A-97E1-4D3A-A323-794DC63B8D88</string>
+		</dict>
+		<key>DB010A96-89F4-45C3-BFFF-7CD017F5668B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DB010A96-89F4-45C3-BFFF-7CD017F5668B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086844.44816196</real>
+			<key>timeStoppedRecording</key>
+			<real>677086844.51078796</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DB010A96-89F4-45C3-BFFF-7CD017F5668B</string>
+		</dict>
+		<key>DB18259A-0121-4A16-A238-A62EDD1B5FAB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DB18259A-0121-4A16-A238-A62EDD1B5FAB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085573.72380197</real>
+			<key>timeStoppedRecording</key>
+			<real>677085573.82005203</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DB18259A-0121-4A16-A238-A62EDD1B5FAB</string>
+		</dict>
+		<key>DBA3F3DC-0682-4719-8C6D-D4684425FAAB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DBA3F3DC-0682-4719-8C6D-D4684425FAAB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677084974.780509</real>
+			<key>timeStoppedRecording</key>
+			<real>677084974.989115</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>DBA3F3DC-0682-4719-8C6D-D4684425FAAB</string>
+		</dict>
+		<key>DD6D8876-0B7B-44C0-ABF3-6934D4466BD2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DD6D8876-0B7B-44C0-ABF3-6934D4466BD2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087517.66141701</real>
+			<key>timeStoppedRecording</key>
+			<real>677087517.83502996</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DD6D8876-0B7B-44C0-ABF3-6934D4466BD2</string>
+		</dict>
+		<key>DE97B900-79A6-4E97-893E-8D5B79882F64</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DE97B900-79A6-4E97-893E-8D5B79882F64.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087277.10693502</real>
+			<key>timeStoppedRecording</key>
+			<real>677087277.78515804</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DE97B900-79A6-4E97-893E-8D5B79882F64</string>
+		</dict>
+		<key>DEA87B60-1139-4168-A6B2-11FD8BA838AB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DEA87B60-1139-4168-A6B2-11FD8BA838AB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677090691.62749505</real>
+			<key>timeStoppedRecording</key>
+			<real>677090691.68595898</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DEA87B60-1139-4168-A6B2-11FD8BA838AB</string>
+		</dict>
+		<key>DFB8E89C-3266-42F6-A752-855D604013CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DFB8E89C-3266-42F6-A752-855D604013CD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085331.29426301</real>
+			<key>timeStoppedRecording</key>
+			<real>677085331.377406</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DFB8E89C-3266-42F6-A752-855D604013CD</string>
+		</dict>
+		<key>E2B45967-D717-4A96-8175-AAC59E57BA95</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E2B45967-D717-4A96-8175-AAC59E57BA95.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677087096.49183095</real>
+			<key>timeStoppedRecording</key>
+			<real>677087096.68783903</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E2B45967-D717-4A96-8175-AAC59E57BA95</string>
+		</dict>
+		<key>E617CF53-0272-462A-B08B-98B87B191EDB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E617CF53-0272-462A-B08B-98B87B191EDB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677090676.34403801</real>
+			<key>timeStoppedRecording</key>
+			<real>677090676.44429195</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E617CF53-0272-462A-B08B-98B87B191EDB</string>
+		</dict>
+		<key>E651207F-568C-4553-8690-2C17CF5842D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E651207F-568C-4553-8690-2C17CF5842D0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086688.79596496</real>
+			<key>timeStoppedRecording</key>
+			<real>677086688.86321604</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E651207F-568C-4553-8690-2C17CF5842D0</string>
+		</dict>
+		<key>E6F98AA9-3017-4246-A522-5A3F2FBBF4E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E6F98AA9-3017-4246-A522-5A3F2FBBF4E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677083917.92597795</real>
+			<key>timeStoppedRecording</key>
+			<real>677083924.95082402</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>E6F98AA9-3017-4246-A522-5A3F2FBBF4E1</string>
+		</dict>
+		<key>E79EED5E-84BF-4047-BDAE-183D9E52F332</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E79EED5E-84BF-4047-BDAE-183D9E52F332.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Clean Build Folder</string>
+			<key>timeStartedRecording</key>
+			<real>677075306.83462703</real>
+			<key>timeStoppedRecording</key>
+			<real>677075306.99223697</real>
+			<key>title</key>
+			<string>Clean Build Folder</string>
+			<key>uniqueIdentifier</key>
+			<string>E79EED5E-84BF-4047-BDAE-183D9E52F332</string>
+		</dict>
+		<key>E8ABD854-6205-44B8-A20B-7DB09B6231CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E8ABD854-6205-44B8-A20B-7DB09B6231CB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086210.90876806</real>
+			<key>timeStoppedRecording</key>
+			<real>677086210.97911203</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E8ABD854-6205-44B8-A20B-7DB09B6231CB</string>
+		</dict>
+		<key>EFEB6D4E-4046-4FDF-A772-22F339C1DA5B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>EFEB6D4E-4046-4FDF-A772-22F339C1DA5B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677086560.83550894</real>
+			<key>timeStoppedRecording</key>
+			<real>677086560.89879704</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>EFEB6D4E-4046-4FDF-A772-22F339C1DA5B</string>
+		</dict>
+		<key>F0D652B3-250A-4445-85B3-5ABD19D4A077</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F0D652B3-250A-4445-85B3-5ABD19D4A077.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677089426.73242497</real>
+			<key>timeStoppedRecording</key>
+			<real>677089427.17643499</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F0D652B3-250A-4445-85B3-5ABD19D4A077</string>
+		</dict>
+		<key>F7E56018-B6F6-4DC7-92CD-A4FB3A11EC38</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F7E56018-B6F6-4DC7-92CD-A4FB3A11EC38.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677084950.032498</real>
+			<key>timeStoppedRecording</key>
+			<real>677084951.05264294</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F7E56018-B6F6-4DC7-92CD-A4FB3A11EC38</string>
+		</dict>
+		<key>FD9984D6-AEEA-4187-9F48-46BDA7ECC75F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FD9984D6-AEEA-4187-9F48-46BDA7ECC75F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>677086703.45610499</real>
+			<key>timeStoppedRecording</key>
+			<real>677086707.63155496</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>FD9984D6-AEEA-4187-9F48-46BDA7ECC75F</string>
+		</dict>
+		<key>FEC64B27-CADE-4D0B-880C-168BE19929A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FEC64B27-CADE-4D0B-880C-168BE19929A3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>677085584.33085096</real>
+			<key>timeStoppedRecording</key>
+			<real>677085584.389153</real>
+			<key>title</key>
+			<string>ChatRoule_App Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FEC64B27-CADE-4D0B-880C-168BE19929A3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

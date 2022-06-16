@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "2c895cf7258331bd78fcb26112e3e3b47c59692778e8fa36b0244e3429dcf56d"
+build_start_time: [1655397846, 382737159]
+build_end_time: [1655397848, 272763967]
+inputs:
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/Controller/ChatRoule_AppApp.swift": [1655378971, 0]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/Model/BDD_Helper.swift": [1655366749, 423213958]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/Model/CView.swift": [1655392789, 793674945]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/Model/CompteBic.swift": [1655320600, 943139076]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/Model/Nft.swift": [1655321105, 817844867]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/Model/Utilisateur.swift": [1655321349, 0]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/TestsBDD/TestsBDD.swift": [1655371820, 326766967]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/TestsBDD/TestsBDD_Helper.swift": [1655369524, 0]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/View/Accueil/Accueil.swift": [1655397845, 964569568]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/View/Accueil/blocDernierNFT.swift": [1655379177, 0]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/View/Boutique/Boutique.swift": [1655394741, 716938495]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/View/Boutique/modalAchatBoutique.swift": [1655321575, 320760726]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/View/Boutique/modalVenteBoutique.swift": [1655321585, 492501735]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/View/Boutique/pushSoldeBoutique.swift": [1655321626, 953708887]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/View/ContentView.swift": [1655394792, 0]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/View/FormConnexion.swift": [1655343556, 0]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/View/Galerie/Galerie.swift": [1655394737, 890010118]
+  "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/View/Galerie/pushGalerie.swift": [1655321528, 0]

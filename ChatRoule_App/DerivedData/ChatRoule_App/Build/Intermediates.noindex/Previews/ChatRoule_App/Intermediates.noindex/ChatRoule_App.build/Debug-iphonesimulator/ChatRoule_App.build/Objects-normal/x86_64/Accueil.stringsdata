@@ -1,0 +1,24 @@
+{
+  "source": "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/View/Accueil/Accueil.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%@ Elias 👋 "
+      },
+      {
+        "comment": "",
+        "key": "Cours du bitcoin"
+      },
+      {
+        "comment": "",
+        "key": "Dernières acquisitions"
+      },
+      {
+        "comment": "",
+        "key": "JOUER"
+      }
+    ]
+  },
+  "version": 1
+}
