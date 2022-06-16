@@ -1,12 +1,5 @@
 {
   "source": "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/ChatRoule_App/View/Accueil/blocDernierNFT.swift",
-  "tables": {
-    "Localizable": [
-      {
-        "comment": "",
-        "key": "Hello, World!"
-      }
-    ]
-  },
+  "tables": {},
   "version": 1
 }

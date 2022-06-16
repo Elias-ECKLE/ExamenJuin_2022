@@ -4,7 +4,19 @@
     "Localizable": [
       {
         "comment": "",
-        "key": "Hello, World!"
+        "key": "Bienvenue dans Chat'Roule"
+      },
+      {
+        "comment": "",
+        "key": "Email"
+      },
+      {
+        "comment": "",
+        "key": "Mot de passe"
+      },
+      {
+        "comment": "",
+        "key": "SE CONNECTER"
       }
     ]
   },

@@ -27,6 +27,7 @@
 		37187E49285A6BC300908B41 /* FormConnexion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37187E48285A6BC300908B41 /* FormConnexion.swift */; };
 		37187E4B285B15FE00908B41 /* TestsBDD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37187E4A285B15FE00908B41 /* TestsBDD.swift */; };
 		37187E4E285B1BDD00908B41 /* BDD_Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37187E4D285B1BDD00908B41 /* BDD_Helper.swift */; };
+		37494E0A285BC3C800A40D8B /* graphiqueBitcoin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37494E09285BC3C800A40D8B /* graphiqueBitcoin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		37187E48285A6BC300908B41 /* FormConnexion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormConnexion.swift; sourceTree = "<group>"; };
 		37187E4A285B15FE00908B41 /* TestsBDD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestsBDD.swift; sourceTree = "<group>"; };
 		37187E4D285B1BDD00908B41 /* BDD_Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BDD_Helper.swift; sourceTree = "<group>"; };
+		37494E09285BC3C800A40D8B /* graphiqueBitcoin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = graphiqueBitcoin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +172,7 @@
 			children = (
 				37187E33285A6AA500908B41 /* Accueil.swift */,
 				3718113A285B4C6900224F1A /* blocDernierNFT.swift */,
+				37494E09285BC3C800A40D8B /* graphiqueBitcoin.swift */,
 			);
 			path = Accueil;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 				37187E38285A6ACC00908B41 /* Boutique.swift in Sources */,
 				37187E1D285A55C700908B41 /* ContentView.swift in Sources */,
 				37187E1B285A55C700908B41 /* ChatRoule_AppApp.swift in Sources */,
+				37494E0A285BC3C800A40D8B /* graphiqueBitcoin.swift in Sources */,
 				37187E32285A668F00908B41 /* CompteBic.swift in Sources */,
 				37187E43285A6B6700908B41 /* modalAchatBoutique.swift in Sources */,
 				37187E4B285B15FE00908B41 /* TestsBDD.swift in Sources */,

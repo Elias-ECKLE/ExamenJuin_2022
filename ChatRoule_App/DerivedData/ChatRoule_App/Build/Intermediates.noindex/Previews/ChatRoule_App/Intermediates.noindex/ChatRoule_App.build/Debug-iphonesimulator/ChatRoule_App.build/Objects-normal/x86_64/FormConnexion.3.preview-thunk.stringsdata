@@ -1,0 +1,24 @@
+{
+  "source": "/Users/eliaseckle/Documents/ExamenCycle2/Chat_Roule copie/ChatRoule_App/DerivedData/ChatRoule_App/Build/Intermediates.noindex/Previews/ChatRoule_App/Intermediates.noindex/ChatRoule_App.build/Debug-iphonesimulator/ChatRoule_App.build/Objects-normal/x86_64/FormConnexion.3.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Bienvenue dans Chat'Roule"
+      },
+      {
+        "comment": "",
+        "key": "Email"
+      },
+      {
+        "comment": "",
+        "key": "Mot de passe"
+      },
+      {
+        "comment": "",
+        "key": "SE CONNECTER"
+      }
+    ]
+  },
+  "version": 1
+}

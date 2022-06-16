@@ -8,13 +8,40 @@
 import SwiftUI
 
 struct pushGalerie: View {
+    
+    //let chatons:[Nft];
+    let proxy:GeometryProxy;
+    let chaton: Nft;
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack{
+            Image(chaton.GetSource())
+                .resizable().aspectRatio(contentMode: .fill)
+                .frame(width: proxy.size.width*0.6,
+                       height: proxy.size.height*0.6,
+                       alignment: .center)
+                .padding(.top, proxy.size.height*(-0.15))
+            
+            Text(chaton.GetNom()).font(.largeTitle).bold()
+                .padding(.top, proxy.size.height*(-0.05))
+            
+            Spacer()
+            
+            Text(chaton.GetDescription())
+                .frame(width:proxy.size.width*0.87, height:proxy.size.height*0.3, alignment: .leading)
+                .padding(.top, proxy.size.height*(-0.1))
+            
+            Spacer()
+              
+            
+        }
+       
+       
     }
 }
 
 struct pushGalerie_Previews: PreviewProvider {
     static var previews: some View {
-        pushGalerie()
+       ContentView()
     }
 }

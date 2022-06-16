@@ -64,7 +64,7 @@ struct TabBar: View{
       
         Divider()
             .background(Color.white)
-            .offset(y:6)
+            .offset(y:-8)
         VStack{
 
             HStack(alignment: .center){
